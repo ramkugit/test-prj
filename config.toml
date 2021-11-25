@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ram Ku Git powered by Hugo" 
+theme = "ananke"
