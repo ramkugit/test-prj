@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Ram Ku Git powered by Hugo" 
+title = "RamkuGit GitHub Pages powered by Hugo" 
 theme = "ananke"
