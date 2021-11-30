@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/ram/project/my-test-project/test-prj",
+	"sourceRoot": "/home/runner/work/test-prj/test-prj",
 	"sources": [
 		"stdin"
 	],
