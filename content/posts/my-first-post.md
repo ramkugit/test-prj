@@ -3,6 +3,13 @@ title: "Icream, You scream, We all Scream! ICREAM!!!!!"
 date: 2021-11-22T20:31:50+02:00
 draft: false
 ---
+
+👋 Hi, I’m @ramkugit
+👀 I’m interested in ...
+🌱 I’m currently learning ...
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
+
 SIGNATURE
 This is my first page **with** _content_
 
