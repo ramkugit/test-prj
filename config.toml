@@ -1,4 +1,4 @@
 baseURL = "https://ramkugit.github.io/test-prj/"
 languageCode = "en-us"
-title = "RamkuGit2 GitHub Pages powered by Hugo TEST 1234" 
+title = "This is a test site wth git ignore" 
 theme = "ananke"
