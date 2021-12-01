@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://github.com/ramkugit/test-prj/"
 languageCode = "en-us"
 title = "RamkuGit2 GitHub Pages powered by Hugo-test" 
 theme = "ananke"
